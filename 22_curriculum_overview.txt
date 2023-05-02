@@ -1,0 +1,45 @@
+
+Section 03: Curriculum Overview
+------------------------------------------------------------------------
+
+Overview I
+
+	- Getting Started
+
+	- Structure of a C++ Program
+
+	- Variables and Constants
+
+	- Arrays and Vectors
+
+	- Strings in C++
+
+	- Expressions, Statements and Operators
+
+	- Determining Control Flow
+
+	- Functions
+
+
+Overview II
+
+	- Pointers and References
+
+	- OOP - Classes and Objects
+
+	- Operator Overloading
+
+	- Inheritance
+
+	- Polymorphism
+
+	- Smart Pointers
+
+	- The Standard Template Library (STL)
+
+	- I/O Streams
+
+	- Exception Handling
+
+
+
