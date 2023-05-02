@@ -1,0 +1,25 @@
+
+Section 03: Overview of the Section Challenge Exercises
+---------------------------------------------------------------------------------------------
+
+Curriculum Overview
+
+	- Challenge Exercises
+
+		+ At the end of most course sections
+
+		+ Develop real C++ programs using what we discuss
+		  in the section
+
+		+ Section Challenges
+
+			- Description
+	
+			- Starting project
+
+			- Completed solution
+
+		+ Have fun and keep coding!
+
+
+
